@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791606436838",
+    "project_id": "test-888c6",
+    "storage_bucket": "test-888c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791606436838:android:b6f3fffa40a48f8b90ac27",
+        "android_client_info": {
+          "package_name": "com.example.mulberryhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791606436838-ed3ivae2k6ebrdl35hj5fo780pb18eqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClGHNzzo-UFXm4hJyPZDscMMx5a_qjuK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791606436838-ed3ivae2k6ebrdl35hj5fo780pb18eqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
